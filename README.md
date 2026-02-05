@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Pairie 👋
 
-<!--
-**pairie-koh/pairie-koh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer @ Kenzi Wealth**
 
-Here are some ideas to get you started:
+Building AI agents for wealth management with reinforcement learning. Previously quantitative development and stablecoin research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+**[Kenzi Wealth](https://kenziwealth.com/)** — Building AI agents to bring institutional-grade asset management to every investor.
+
+## Previously
+**Georgia Tech** — Admitted at 16, skipped.
+
+**Eliz Precious Metals** (Quantitative Developer) — Largest bullion service in Malaysia.
+
+## Research Background
+My academic work sits at the intersection of DeFi and financial stability:
+
+- **Stablecoin Risk** — Studying how wrapped stablecoins create shadow-banking dynamics in DeFi
+- **Market Microstructure** — Analyzing leverage, liquidity, and contagion across protocols using on-chain data
+
+## Get in Touch
+📧 pk@kenziwealth.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pairie-koh-687369279)
