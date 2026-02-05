@@ -1,4 +1,4 @@
-# Hey, I'm Pairie 👋
+# Pairie Koh
 
 **AI Engineer @ Kenzi Wealth**
 
