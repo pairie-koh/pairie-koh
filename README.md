@@ -2,10 +2,10 @@
 
 **AI Engineer @ Kenzi Wealth**
 
-Building AI agents for wealth management with reinforcement learning. Previously quantitative development and stablecoin research.
+Building AI agents for wealth management with reinforcement learning. 
 
 ## What I'm Working On
-**[Kenzi Wealth](https://kenziwealth.com/)** — Building AI agents to bring institutional-grade asset management to every investor.
+**[Kenzi Wealth](https://kenziwealth.com/)** — Building AI agents to bring institutional-grade asset management to every investor. Backed by EFG Hermes. 
 
 ## Previously
 **Georgia Tech** — Admitted at 16, skipped.
@@ -15,8 +15,8 @@ Building AI agents for wealth management with reinforcement learning. Previously
 ## Research Background
 My academic work sits at the intersection of DeFi and financial stability:
 
-- **Stablecoin Risk** — Studying how wrapped stablecoins create shadow-banking dynamics in DeFi
-- **Market Microstructure** — Analyzing leverage, liquidity, and contagion across protocols using on-chain data
+- **Stablecoin Risk**: Studying how wrapped stablecoins create shadow-banking dynamics in DeFi
+- **Market Microstructure**: Analyzing leverage, liquidity, and contagion across protocols using on-chain data
 
 ## Get in Touch
 📧 pk@kenziwealth.com
