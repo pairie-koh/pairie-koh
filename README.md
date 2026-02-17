@@ -18,6 +18,9 @@ My academic work sits at the intersection of DeFi and financial stability:
 - **Stablecoin Risk**: Studying how wrapped stablecoins create shadow-banking dynamics in DeFi
 - **Market Microstructure**: Analyzing leverage, liquidity, and contagion across protocols using on-chain data
 
+### Papers
+- **Wrapped Stablecoins and the DeFi System Risk** (with Kuntara Pukthuanthong)
+
 ## Get in Touch
 📧 pk@kenziwealth.com
 
