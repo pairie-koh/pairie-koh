@@ -23,7 +23,7 @@ My academic work sits at the intersection of DeFi and financial stability:
 - **Market Microstructure**: Analyzing leverage, liquidity, and contagion across protocols using on-chain data
 
 ### Papers
-- **[Wrapped Stablecoins and the DeFi System Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223420)** (with Kuntara Pukthuanthong)
+- [**Wrapped Stablecoins and the DeFi System Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223420) (with Kuntara Pukthuanthong)
 
 ## Get in Touch
 📧 [pk@kenziwealth.com](mailto:pk@kenziwealth.com) | [p.koh@ycrg-labs.org](mailto:p.koh@ycrg-labs.org) (research inquiries)
