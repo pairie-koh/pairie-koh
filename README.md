@@ -16,12 +16,6 @@ Building AI agents for wealth management with reinforcement learning.
 
 **Eliz Precious Metals** (Quantitative Developer): Largest bullion service in Malaysia.
 
-## Research Background
-My academic work sits at the intersection of DeFi and financial stability:
-
-- **Stablecoin Risk**: Studying how wrapped stablecoins create shadow-banking dynamics in DeFi
-- **Market Microstructure**: Analyzing leverage, liquidity, and contagion across protocols using on-chain data
-
 ### Papers
 - [**Wrapped Stablecoins and the DeFi System Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223420) (with Kuntara Pukthuanthong)
 
